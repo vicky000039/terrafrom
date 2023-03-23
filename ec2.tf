@@ -1,0 +1,4 @@
+resource "instance " "ec2" {
+    
+  
+}
