@@ -1,4 +1,0 @@
-resource "instance " "ec2" {
-    
-  
-}
